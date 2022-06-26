@@ -9,5 +9,11 @@ git及github使用
    git config global --user.name "你的名字"
    git config global --user.email "你的邮箱地址"
   ```
-配置完后，可以输入:
-git config user.name和git config user.email，查看刚才配置的信息是否正确。
+  配置完后，可以输入以下命令核对下名字和邮箱是否与github上注册的一致:
+  ```
+  git config user.name
+  git config user.email
+  或者利用如下命令可以看到耕作的git配置信息：
+  git config --list
+  ```
+   
