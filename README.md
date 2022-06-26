@@ -16,4 +16,10 @@ git及github使用
   或者利用如下命令查看更多的git配置信息：
   git config --list
   ```
+4. 上传文件
+  ```
+  !git add .
+  !git commit -m “这里填写评论（做了哪些修改）”
+  !git push    //上传代码到远端    注：在这之前可能需要!git pull，从远端数据库拉代码下来，看看是否有冲突。
+  ```
    
