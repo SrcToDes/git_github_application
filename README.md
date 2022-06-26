@@ -13,7 +13,7 @@ git及github使用
   ```
   git config user.name
   git config user.email
-  或者利用如下命令可以看到耕作的git配置信息：
+  或者利用如下命令查看更多的git配置信息：
   git config --list
   ```
    
