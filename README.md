@@ -22,4 +22,4 @@ git及github使用
   !git commit -m “这里填写评论（做了哪些修改）”
   !git push    //上传代码到远端    注：在这之前可能需要!git pull，从远端数据库拉代码下来，看看是否有冲突。
   ```
-   ![jhhhg](https://github.com/SrcToDes/git_github_application/blob/c4762513d434dd9b0890d98dc4db12d924cc69a9/matlab%E7%89%88%E6%9C%AC%E6%96%87%E4%BB%B6-%E4%B8%8A%E4%BC%A03%E4%B8%AA%E6%AD%A5%E9%AA%A4.png)
+![image]()
