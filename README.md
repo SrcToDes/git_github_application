@@ -22,4 +22,4 @@ git及github使用
   !git commit -m “这里填写评论（做了哪些修改）”
   !git push    //上传代码到远端    注：在这之前可能需要!git pull，从远端数据库拉代码下来，看看是否有冲突。
   ```
-![image](matlab版本文件-上传3个步骤)
+![image](picture/matlab版本文件-上传3个步骤.png)
