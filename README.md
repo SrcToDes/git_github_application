@@ -31,4 +31,4 @@ git及github使用
 ![imagjje](https://github.com/SrcToDes/bulk_files_rename/blob/00f6049979fabe0fc57e7010318973882144b5d7/picture/1.jpg)
 
 ## 参考
-*[Readme.md语法]（https://www.cnblogs.com/wj-1314/p/8547763.html）
+* [Readme.md语法]（https://www.cnblogs.com/wj-1314/p/8547763.html）
