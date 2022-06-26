@@ -16,10 +16,15 @@ git及github使用
   或者利用如下命令查看更多的git配置信息：
   git config --list
   ```
-4. 上传文件
+4. 上传代码文件到github
   ```
   !git add
   !git commit -m “这里填写评论（做了哪些修改）”
   !git push    //上传代码到远端    注：在这之前可能需要!git pull，从远端数据库拉代码下来，看看是否有冲突。
   ```
+  ## 或者可以在matlab文件夹窗口，选定程序文件，右键单击-源代码管理
+  - 添加到git
+  - 查看并提交更改
+  - 刷新git状态
+  - 推送
 ![imagjje](https://github.com/SrcToDes/bulk_files_rename/blob/00f6049979fabe0fc57e7010318973882144b5d7/picture/1.jpg)
